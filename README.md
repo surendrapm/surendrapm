@@ -1,5 +1,5 @@
 ### Hi there 👋
- Hello I'm  SURENDRA :) 
+ I'm  SURENDRA :) 
 
 ()=>{
 👋 I'm interested In Web Applications and Computer Science
