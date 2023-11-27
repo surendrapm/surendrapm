@@ -6,9 +6,9 @@
 <br>
 👀 Getting Structured with Data Structure and Algorithms
 <br>
-🌱 I'm currently learning Components Based UI
+🌱 I'm currently building and contributing to End to End Apllications
 <br>
-💞️ I'm looking to collaborate on MERN Applications and UI
+💞️ I'm looking to collaborate on MERN and NextJs Applications 
 <br>
 📫 How to reach me:
    - Email: suredon456@gmail.com
